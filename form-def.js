@@ -20,7 +20,7 @@ Ext.define('My.view.form.Form', {
             margin: '0 0 10 0',
             layout: {
                 vertical: true,
-            },
+            }
         }
     },
 
