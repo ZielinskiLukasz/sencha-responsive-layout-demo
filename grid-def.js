@@ -22,7 +22,7 @@ var mainGrid = Ext.create('My.view.mainGrid', {
 
 Ext.define('My.view.GridContainer', {
     extend: 'Ext.container.Container',
-    alias: 'view.gridContainer', // this component will have an xtype of:
+    alias: 'view.gridContainer',
     layout: 'hbox',
     width: '100%',
     padding: 20,
